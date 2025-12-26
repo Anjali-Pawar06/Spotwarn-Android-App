@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421753723777",
+    "project_id": "spotwarn-340e1",
+    "storage_bucket": "spotwarn-340e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421753723777:android:90e8b9fec3529df1ec6680",
+        "android_client_info": {
+          "package_name": "com.example.spotwarn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxkiKg9oYzE_lkOOgUQftaN2Hnk5ABgdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
